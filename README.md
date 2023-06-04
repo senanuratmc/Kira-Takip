@@ -21,10 +21,10 @@ Gayrimenkul danışmanları için etkili bir portföy takip sistemi ve kira yön
 <li>Kiracılarınızın ödemelerini takip edebilecek ve gerekirse hatırlatmalar gönderebileceksiniz.</li>
 </ol>
 ## İletişim ve Takvim Özellikleri:
-<ul>
+<ol>
 <li>Uygulama, danışmanların kiracılarla iletişim halinde kalmasını sağlamak için bir mesajlaşma sistemi sunacak.</li>
 <li>Takvim özelliği sayesinde, randevuları ve görüşmeleri takip edebilecek, hatırlatmalar alabilecek ve organizasyonu kolaylaştıracaksınız.</li>
-<ul>
+<ol>
 ## Kullanıcı Yönetimi ve Güvenlik:
 <ol>
 <li>Kullanıcıların kaydolabileceği, giriş yapabileceği ve portföylerini ve kira sözleşmelerini güvenli bir şekilde yönetebileceği bir kullanıcı yönetim sistemi olacak.</li>
