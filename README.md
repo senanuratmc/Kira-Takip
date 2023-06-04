@@ -25,10 +25,12 @@ Gayrimenkul danışmanları için etkili bir portföy takip sistemi ve kira yön
 <li>Uygulama, danışmanların kiracılarla iletişim halinde kalmasını sağlamak için bir mesajlaşma sistemi sunacak.</li>
 <li>Takvim özelliği sayesinde, randevuları ve görüşmeleri takip edebilecek, hatırlatmalar alabilecek ve organizasyonu kolaylaştıracaksınız.</li>
 </ol>
+
 ## Kullanıcı Yönetimi ve Güvenlik:
 <ol>
 <li>Kullanıcıların kaydolabileceği, giriş yapabileceği ve portföylerini ve kira sözleşmelerini güvenli bir şekilde yönetebileceği bir kullanıcı yönetim sistemi olacak.</li>
 <li>Kullanıcıların erişim düzeylerini kontrol edebilecek, yetkilendirme ve yetki yönetimi sağlayabileceksiniz.</li>
 <li>Veri gizliliği ve güvenliği önemli olduğundan, uygun güvenlik önlemleri alınacak ve kullanıcı bilgileri korunacaktır.</li>
 </ol>
+
 Bu proje, gayrimenkul danışmanlarının iş süreçlerini kolaylaştıracak ve portföylerini etkin bir şekilde takip etmelerine olanak sağlayacak bir çözüm sunmayı amaçlamaktadır. Kullanıcı dostu arayüzü ve işlevselliği ile gayrimenkul danışmanlarının iş verimliliğini artırmak ve profesyonel bir yönetim deneyimi sağlamak için tasarlanmıştır.
