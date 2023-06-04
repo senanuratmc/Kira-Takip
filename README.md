@@ -20,6 +20,7 @@ Gayrimenkul danışmanları için etkili bir portföy takip sistemi ve kira yön
 <li>Sözleşme süreleri sona ermeden önce otomatik hatırlatmalar ve bildirimler alabileceksiniz.</li>
 <li>Kiracılarınızın ödemelerini takip edebilecek ve gerekirse hatırlatmalar gönderebileceksiniz.</li>
 </ol>
+
 ## İletişim ve Takvim Özellikleri:
 <ol>
 <li>Uygulama, danışmanların kiracılarla iletişim halinde kalmasını sağlamak için bir mesajlaşma sistemi sunacak.</li>
