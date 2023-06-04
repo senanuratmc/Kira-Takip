@@ -14,21 +14,21 @@ Gayrimenkul danışmanları için etkili bir portföy takip sistemi ve kira yön
  </ol>
 
 ## Kira Sözleşmeleri Sayfası:
-
-1.Kira sözleşmelerini gösteren ayrı bir sayfa, danışmanların kiracı ve kiralık mülk bilgilerini kolayca yönetmelerini sağlayacak.
-2.Hangi dairenin ne zaman kiralandığı, kira süresi ve diğer önemli detaylar gibi ayrıntılı bilgiler yer alacak.
-3.Sözleşme süreleri sona ermeden önce otomatik hatırlatmalar ve bildirimler alabileceksiniz.
-4.Kiracılarınızın ödemelerini takip edebilecek ve gerekirse hatırlatmalar gönderebileceksiniz.
-
+<ol>
+<li>Kira sözleşmelerini gösteren ayrı bir sayfa, danışmanların kiracı ve kiralık mülk bilgilerini kolayca yönetmelerini sağlayacak.</li>
+<li>Hangi dairenin ne zaman kiralandığı, kira süresi ve diğer önemli detaylar gibi ayrıntılı bilgiler yer alacak.</li>
+<li>Sözleşme süreleri sona ermeden önce otomatik hatırlatmalar ve bildirimler alabileceksiniz.</li>
+<li>Kiracılarınızın ödemelerini takip edebilecek ve gerekirse hatırlatmalar gönderebileceksiniz.</li>
+</ol>
 ## İletişim ve Takvim Özellikleri:
-
-1.Uygulama, danışmanların kiracılarla iletişim halinde kalmasını sağlamak için bir mesajlaşma sistemi sunacak.
-2.Takvim özelliği sayesinde, randevuları ve görüşmeleri takip edebilecek, hatırlatmalar alabilecek ve organizasyonu kolaylaştıracaksınız.
-
+<ul>
+<li>Uygulama, danışmanların kiracılarla iletişim halinde kalmasını sağlamak için bir mesajlaşma sistemi sunacak.</li>
+<li>Takvim özelliği sayesinde, randevuları ve görüşmeleri takip edebilecek, hatırlatmalar alabilecek ve organizasyonu kolaylaştıracaksınız.</li>
+<ul>
 ## Kullanıcı Yönetimi ve Güvenlik:
-
-1.Kullanıcıların kaydolabileceği, giriş yapabileceği ve portföylerini ve kira sözleşmelerini güvenli bir şekilde yönetebileceği bir kullanıcı yönetim sistemi olacak.
-2.Kullanıcıların erişim düzeylerini kontrol edebilecek, yetkilendirme ve yetki yönetimi sağlayabileceksiniz.
-3.Veri gizliliği ve güvenliği önemli olduğundan, uygun güvenlik önlemleri alınacak ve kullanıcı bilgileri korunacaktır.
-
+<ol>
+<li>Kullanıcıların kaydolabileceği, giriş yapabileceği ve portföylerini ve kira sözleşmelerini güvenli bir şekilde yönetebileceği bir kullanıcı yönetim sistemi olacak.</li>
+<li>Kullanıcıların erişim düzeylerini kontrol edebilecek, yetkilendirme ve yetki yönetimi sağlayabileceksiniz.</li>
+<li>Veri gizliliği ve güvenliği önemli olduğundan, uygun güvenlik önlemleri alınacak ve kullanıcı bilgileri korunacaktır.</li>
+</ol>
 Bu proje, gayrimenkul danışmanlarının iş süreçlerini kolaylaştıracak ve portföylerini etkin bir şekilde takip etmelerine olanak sağlayacak bir çözüm sunmayı amaçlamaktadır. Kullanıcı dostu arayüzü ve işlevselliği ile gayrimenkul danışmanlarının iş verimliliğini artırmak ve profesyonel bir yönetim deneyimi sağlamak için tasarlanmıştır.
