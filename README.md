@@ -1,30 +1,30 @@
 # Kira-Takip
  Proje Ana Konusu: Gayrimenkul Danışmanlarının Portföy ve Kira Takibi Yönetimi
 
-İçerik:
+# İçerik:
 
 Gayrimenkul danışmanları için etkili bir portföy takip sistemi ve kira yönetimi çözümü sunan bir web uygulaması geliştirmeyi hedefliyoruz. Bu uygulama, danışmanların hem satılık hem de kiralık portföylerini kolaylıkla yönetmelerine yardımcı olacak. İşte projenin ayrıntıları:
 
-Portföy Sayfası:
+# Portföy Sayfası:
 
 1.Portföy sayfası, danışmanların genel ilan bilgilerini ve detaylarını görüntüleyebileceği kullanıcı dostu bir arayüz sunacak.
 2.Danışmanlar, portföylerini kolayca ekleyebilecek, düzenleyebilecek ve güncelleyebilecek.
 3.Portföylerinizi filtreleme seçenekleriyle özelleştirebilecek ve belirli kriterlere göre arama yapabileceksiniz.
 4.Her ilana ait detaylar, fotoğraflar, oda sayısı, konum bilgisi, fiyat ve diğer özellikler gibi bilgileri içerecek.
 
-Kira Sözleşmeleri Sayfası:
+# Kira Sözleşmeleri Sayfası:
 
 1.Kira sözleşmelerini gösteren ayrı bir sayfa, danışmanların kiracı ve kiralık mülk bilgilerini kolayca yönetmelerini sağlayacak.
 2.Hangi dairenin ne zaman kiralandığı, kira süresi ve diğer önemli detaylar gibi ayrıntılı bilgiler yer alacak.
 3.Sözleşme süreleri sona ermeden önce otomatik hatırlatmalar ve bildirimler alabileceksiniz.
 4.Kiracılarınızın ödemelerini takip edebilecek ve gerekirse hatırlatmalar gönderebileceksiniz.
 
-İletişim ve Takvim Özellikleri:
+# İletişim ve Takvim Özellikleri:
 
 1.Uygulama, danışmanların kiracılarla iletişim halinde kalmasını sağlamak için bir mesajlaşma sistemi sunacak.
 2.Takvim özelliği sayesinde, randevuları ve görüşmeleri takip edebilecek, hatırlatmalar alabilecek ve organizasyonu kolaylaştıracaksınız.
 
-Kullanıcı Yönetimi ve Güvenlik:
+# Kullanıcı Yönetimi ve Güvenlik:
 
 1.Kullanıcıların kaydolabileceği, giriş yapabileceği ve portföylerini ve kira sözleşmelerini güvenli bir şekilde yönetebileceği bir kullanıcı yönetim sistemi olacak.
 2.Kullanıcıların erişim düzeylerini kontrol edebilecek, yetkilendirme ve yetki yönetimi sağlayabileceksiniz.
