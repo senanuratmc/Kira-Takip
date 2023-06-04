@@ -11,10 +11,10 @@ Gayrimenkul danışmanları için etkili bir portföy takip sistemi ve kira yön
 * Danışmanlar, portföylerini kolayca ekleyebilecek, düzenleyebilecek ve güncelleyebilecek.
 * Portföylerinizi filtreleme seçenekleriyle özelleştirebilecek ve belirli kriterlere göre arama yapabileceksiniz.
 * Her ilana ait detaylar, fotoğraflar, oda sayısı, konum bilgisi, fiyat ve diğer özellikler gibi bilgileri içerecek.
-<ul>
+<ol>
  <li> Portföy sayfası, danışmanların genel ilan bilgilerini ve detaylarını görüntüleyebileceği kullanıcı dostu bir arayüz sunacak</li>
  <li>  Danışmanlar, portföylerini kolayca ekleyebilecek, düzenleyebilecek ve güncelleyebilecek. </li>
- </ul>
+ </ol>
 
 ## Kira Sözleşmeleri Sayfası:
 
